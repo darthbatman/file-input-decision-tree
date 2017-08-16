@@ -3,6 +3,8 @@ Uses scikit-learn decision tree to classify values in given input file.
 
 The code for this decision tree classifier can be found in app.py
 
+#### Code
+
 ```python
 from sklearn import tree
 
